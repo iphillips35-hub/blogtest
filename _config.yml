@@ -1,0 +1,5 @@
+title: My Blog
+description: A simple blog hosted on GitHub Pages
+baseurl: "/blogtest"
+url: ""
+theme: minima
